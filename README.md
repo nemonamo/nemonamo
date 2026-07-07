@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nemonamo/SVMandroid"><img src="https://img.shields.io/badge/Android-Kotlin-3DDC84?style=flat&logo=android&logoColor=white" alt="Android Kotlin" /></a>
-  <a href="https://github.com/nemonamo/Smartfishing-Fishingod-"><img src="https://img.shields.io/badge/IoT-Mobius%20oneM2M-1f6feb?style=flat" alt="IoT Mobius oneM2M" /></a>
-  <a href="https://github.com/nemonamo/esp32_bno085"><img src="https://img.shields.io/badge/Hardware-ESP32%20%2B%20KiCad-f97316?style=flat" alt="ESP32 KiCad" /></a>
   <a href="https://github.com/nemonamo/chisel-pi-remote-relay"><img src="https://img.shields.io/badge/Remote%20Relay-Chisel%20%2B%20RustDesk-2563eb?style=flat" alt="Chisel RustDesk relay" /></a>
+  <a href="https://github.com/nemonamo/esp32_bno085"><img src="https://img.shields.io/badge/Hardware-ESP32%20%2B%20KiCad-f97316?style=flat" alt="ESP32 KiCad" /></a>
   <a href="https://github.com/nemonamo/TuyaSmartSwitchActuator"><img src="https://img.shields.io/badge/Automation-Raspberry%20Pi%20%2B%20Tuya-A22846?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi Tuya automation" /></a>
+  <a href="https://github.com/nemonamo/Smartfishing-Fishingod-"><img src="https://img.shields.io/badge/IoT-Mobius%20oneM2M-1f6feb?style=flat" alt="IoT Mobius oneM2M" /></a>
+  <a href="https://github.com/nemonamo/SVMandroid"><img src="https://img.shields.io/badge/Android-Kotlin-3DDC84?style=flat&logo=android&logoColor=white" alt="Android Kotlin" /></a>
 </p>
 
 ---
@@ -33,11 +33,11 @@ Android 앱, IoT 플랫폼, Raspberry Pi/ESP32 기반 장치, 원격 릴레이�
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [SVMandroid](https://github.com/nemonamo/SVMandroid) | 스마트 자판기 상태를 Mobius oneM2M 서버와 Android 앱에서 모니터링하는 프로젝트 | Kotlin, Android, Retrofit, Mobius |
-| [Smartfishing-Fishingod-](https://github.com/nemonamo/Smartfishing-Fishingod-) | 스마트 낚싯대 센서 데이터를 앱에서 확인하는 IoT 낚시 모니터링 프로토타입 | Kotlin, Firebase, Google Maps, Mobius |
-| [esp32_bno085](https://github.com/nemonamo/esp32_bno085) | ESP32와 BNO085 센서를 활용한 하드웨어 설계 프로젝트 | KiCad, ESP32, Sensor |
 | [chisel-pi-remote-relay](https://github.com/nemonamo/chisel-pi-remote-relay) | 폐쇄망/분리망 환경에서 Raspberry Pi relay node, Chisel reverse tunnel, RustDesk를 연결하는 원격 작업 아키텍처 템플릿 | Raspberry Pi, Chisel, Cloudflare Tunnel, RustDesk |
+| [esp32_bno085](https://github.com/nemonamo/esp32_bno085) | ESP32와 BNO085 센서를 활용한 하드웨어 설계 프로젝트 | KiCad, ESP32, Sensor |
 | [TuyaSmartSwitchActuator](https://github.com/nemonamo/TuyaSmartSwitchActuator) | Raspberry Pi와 Tuya 스마트 스위치를 연결해 환기팬 제어를 자동화하는 액추에이터 프로젝트 | Python, Raspberry Pi, Tuya IoT |
+| [Smartfishing-Fishingod-](https://github.com/nemonamo/Smartfishing-Fishingod-) | 스마트 낚싯대 센서 데이터를 앱에서 확인하는 IoT 낚시 모니터링 프로토타입 | Kotlin, Firebase, Google Maps, Mobius |
+| [SVMandroid](https://github.com/nemonamo/SVMandroid) | 스마트 자판기 상태를 Mobius oneM2M 서버와 Android 앱에서 모니터링하는 프로젝트 | Kotlin, Android, Retrofit, Mobius |
 
 ## Toolbox
 
