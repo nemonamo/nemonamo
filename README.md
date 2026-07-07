@@ -5,8 +5,8 @@
 <h1 align="center">nemonamo</h1>
 
 <p align="center">
-  <b>Android, IoT, and hardware ideas that become working prototypes.</b><br />
-  센서에서 서버로, 서버에서 앱 화면으로 이어지는 작은 시스템을 만듭니다.
+  <b>Working prototypes across Android, IoT, hardware, and remote automation.</b><br />
+  센서, 릴레이, 서버, 앱 화면을 연결해 실제로 작동하는 시스템을 만듭니다.
 </p>
 
 <p align="center">
@@ -21,8 +21,8 @@
 
 ## About
 
-Android 앱, IoT 플랫폼, 센서 데이터를 연결해서 눈으로 확인할 수 있는 프로토타입을 만드는 데 관심이 있습니다.
-작은 아이디어라도 실제 기기, 서버, 앱 화면까지 이어지게 만드는 과정을 좋아합니다.
+Android 앱, IoT 플랫폼, Raspberry Pi/ESP32 기반 장치, 원격 릴레이를 연결해 실제로 켜지고 제어되는 프로토타입을 만드는 데 관심이 있습니다.
+아이디어를 문서나 데모에만 남기기보다, 하드웨어와 네트워크, 서버, 앱 화면이 함께 동작하는 형태로 끝까지 묶는 과정을 좋아합니다.
 
 - Android/Kotlin 기반 모바일 앱 개발
 - Mobius oneM2M 기반 IoT 데이터 수집과 모니터링
